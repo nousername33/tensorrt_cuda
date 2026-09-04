@@ -1,0 +1,10 @@
+# Windows / Visual Studio 构建产物
+*.pdb
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+.vs/
+x64/
+Debug/
+Release/
